@@ -57,14 +57,21 @@ const INITIAL_PROPERTIES = [
     "sqft": "84.64",
     "landSqft": "110.50",
     "parking": 2,
-    "image": "https://i.ibb.co/s9yq9Rhb/12132025-015104-defurnished.jpg",
+    "image": "/Propiedades/Coto N.jpg",
     "matterportId": "P32n2mSGnrQ",
     "description": "✨ ¡Oportunidad Única en Coto Privado! ✨\n\n🏡 Casa moderna lista para habitar\n📍 Ubicación privilegiada en Los Camichines\n🛡️ Seguridad y tranquilidad garantizada",
     "id": 1,
     "gallery": [
-      "https://i.ibb.co/s9yq9Rhb/12132025-015104-defurnished.jpg",
-      "https://i.ibb.co/N66rHYdf/12132025-015127-defurnished.jpg"
-    ]
+      "/Propiedades/Coto N.jpg",
+      "/Propiedades/Coto N1.jpg",
+      "/Propiedades/Coto N3.jpg",
+      "/Propiedades/Coto N4.jpg",
+      "/Propiedades/Coto N5.jpg",
+      "/Propiedades/Coto N6.jpg",
+      "/Propiedades/Coto N7.jpg",
+      "/Propiedades/Coto N8.jpg"
+    ],
+    "imageFileName": "Coto N.jpg"
   },
   {
     "title": "Casa Fracc. Santa María",
@@ -76,13 +83,20 @@ const INITIAL_PROPERTIES = [
     "sqft": "",
     "landSqft": "90",
     "parking": "2",
-    "image": "https://i.ibb.co/bjMZQgx7/12022025-1937001.jpg",
+    "image": "/Propiedades/Santa M.jpg",
     "matterportId": "zLZPTdpz6m3",
-    "description": "🏠 ¡TU NUEVO HOGAR TE ESPERA! 🏠\n\n📍 Excelente ubicación atrás de Walmart\n💰 Gran plusvalía garantizada",
+    "description": "🏠 ¡TU NUEVO HOGAR TE ESPERA! 🏠\n\n📍 Excelente ubicación atrás de Walmart\n💰 Gran plusvalía garantizada\n🔑 Lista para escriturar",
     "id": 1765603133821,
     "gallery": [
-      "https://i.ibb.co/bjMZQgx7/12022025-1937001.jpg"
-    ]
+      "/Propiedades/Santa M.jpg",
+      "/Propiedades/Santa M1.jpg",
+      "/Propiedades/Santa M2.jpg",
+      "/Propiedades/Santa M4.jpg",
+      "/Propiedades/Santa M5.jpg",
+      "/Propiedades/Santa M6.jpg",
+      "/Propiedades/Santa M7.jpg"
+    ],
+    "imageFileName": "Santa M.jpg"
   },
   {
     "title": "Residencial Camichines",
@@ -94,9 +108,9 @@ const INITIAL_PROPERTIES = [
     "sqft": "68.3",
     "landSqft": "",
     "parking": "1",
-    "image": "/Propiedades/Coto C.jpg", 
-    "matterportId": "13SKdXtUb3x", 
-    "description": "🏡✨ **¡Descubre Tu Paraíso Exclusivo en Residencial Camichines!** ✨🔑\n\nBienvenido al hogar donde el lujo y la privacidad se encuentran.",
+    "image": "/Propiedades/Coto C.jpg",
+    "matterportId": "13SKdXtUb3x",
+    "description": "🏡✨ **¡Descubre Tu Paraíso Exclusivo en Residencial Camichines!** ✨🔑\n\nBienvenido al hogar donde el lujo, la privacidad y el confort se encuentran.",
     "id": 1766157031105,
     "gallery": [
       "/Propiedades/Coto C.jpg",
@@ -105,6 +119,50 @@ const INITIAL_PROPERTIES = [
       "/Propiedades/Coto C3.jpg",
       "/Propiedades/Coto C4.jpg",
       "/Propiedades/Coto C5.jpg"
+    ]
+  },
+  {
+    "title": "Casa Darío Vargas",
+    "location": "Darío Vargas #77, Col. Centro, Cd. Guzmán, Jal.",
+    "price": "$14,000,000",
+    "type": "venta",
+    "beds": "9",
+    "baths": "4",
+    "sqft": "",
+    "landSqft": "800",
+    "parking": "3",
+    "imageFileName": "DV.jpg",
+    "matterportId": "dbSMMFEMo9o",
+    "description": "",
+    "id": 1767391030517,
+    "image": "/Propiedades/DV.jpg",
+    "gallery": [
+      "/Propiedades/DV.jpg",
+      "/Propiedades/DV1.jpg",
+      "/Propiedades/DV2.jpg",
+      "/Propiedades/DV3.jpg",
+      "/Propiedades/DV4.jpg",
+      "/Propiedades/DV5.jpg",
+      "/Propiedades/DV6.jpg",
+      "/Propiedades/DV7.jpg",
+      "/Propiedades/DV8.jpg",
+      "/Propiedades/DV9.jpg",
+      "/Propiedades/DV10.jpg",
+      "/Propiedades/DV11.jpg",
+      "/Propiedades/DV12.jpg",
+      "/Propiedades/DV13.jpg",
+      "/Propiedades/DV14.jpg",
+      "/Propiedades/DV15.jpg",
+      "/Propiedades/DV16.jpg",
+      "/Propiedades/DV17.jpg",
+      "/Propiedades/DV18.jpg",
+      "/Propiedades/DV19.jpg",
+      "/Propiedades/DV20.jpg",
+      "/Propiedades/DV21.jpg",
+      "/Propiedades/DV22.jpg",
+      "/Propiedades/DV23.jpg",
+      "/Propiedades/DV24.jpg",
+      "/Propiedades/DV25.jpg"
     ]
   }
 ];
